@@ -1,10 +1,11 @@
 # wiki
 
-This project was completed as part of the CS50’s Web Programming with Python and JavaScript. Bellow is the project specification as well as a link to a youtube video demonstrating these features. 
+This project was completed as part of the CS50’s Web Programming with Python and JavaScript. Bellow is the project specification as well as a link to a youtube video demonstrating these features.This project was built using Django. 
 
+## Video Demostration
 https://youtu.be/bwSf-85sJO4 
 
-This project was built using Django 
+## Project Specification 
 
 - Entry Page: Visiting /wiki/TITLE, where TITLE is the title of an encyclopedia entry, should render a page that displays the contents of that encyclopedia entry.
 The view should get the content of the encyclopedia entry by calling the appropriate util function.
